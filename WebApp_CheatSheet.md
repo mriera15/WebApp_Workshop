@@ -15,10 +15,6 @@ npm init -y
 # Instala Express
 npm install express
 
-# Cria ficheiro principal
-touch server.js
-```
-
 ### Exemplo simples de server.js:
 ```js
 const express = require('express');
